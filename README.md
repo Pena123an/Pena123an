@@ -8,7 +8,6 @@ I am a passionate and dedicated modern front-end developer with a strong foundat
 
 * 🌍  I'm based in Ethiopia
 * ✉️  You can contact me at [penielanbessie@gmail.com](mailto:penielanbessie@gmail.com )
-* You can visit my website portfoliopeniel.netlify.app
 * 🧠  I'm learning Full Stack Development
 * 🤝  I'm open to collaborating on other projects
   
