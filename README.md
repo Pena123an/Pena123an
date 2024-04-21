@@ -10,6 +10,7 @@ I am a passionate and dedicated modern front-end developer with a strong foundat
 * ✉️  You can contact me at [penielanbessie@gmail.com](mailto:penielanbessie@gmail.com )
 * 🧠  I'm learning Full Stack Development
 * 🤝  I'm open to collaborating on other projects
+* [Visit my portfolio website](https://penaaportfolio.netlify.app)
   
 
 ### Skills
